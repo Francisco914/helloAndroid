@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Nombre de la app</string>
+    <string name="app_title">Este texto esta declarado en la carpeta values/strings</string>
+</resources>
